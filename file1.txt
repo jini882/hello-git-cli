@@ -1,4 +1,1 @@
-hello git
-second
-세번째
-네번째
+새로운 merge된 파일
